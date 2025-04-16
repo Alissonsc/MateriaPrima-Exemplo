@@ -9,7 +9,7 @@ namespace MateriaPrima_Exemplo.Enumeradores
     public enum TipoQueijo
     {
         Mussarela,
-        Cheddar,
-        Prato
+        Catupiry,
+        Cheddar
     }
 }
